@@ -1,1 +1,0 @@
-Book app sample readme
